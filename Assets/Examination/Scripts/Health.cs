@@ -112,6 +112,8 @@ public class Health : MonoBehaviour
         if (currentHealth <= minHealth)
         {
             OnDie?.Invoke();
+
+            Destroy(gameObject);
             
             //Add animation-trigger here
         }
