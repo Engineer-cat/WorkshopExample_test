@@ -112,6 +112,7 @@ public class Health : MonoBehaviour
         if (currentHealth <= minHealth)
         {
             OnDie?.Invoke();
+            
             //Add animation-trigger here
         }
     }
