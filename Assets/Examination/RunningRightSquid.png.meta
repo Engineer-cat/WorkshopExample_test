@@ -67,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -159,12 +159,12 @@ TextureImporter:
       name: RunningRightSquid_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 1403
-        width: 29
-        height: 15
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: RunningRightSquid_1
       rect:
         serializedVersion: 2
-        x: 74
-        y: 1036
-        width: 381
-        height: 466
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +203,12 @@ TextureImporter:
       name: RunningRightSquid_2
       rect:
         serializedVersion: 2
-        x: 592
-        y: 1041
-        width: 380
-        height: 470
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: RunningRightSquid_3
       rect:
         serializedVersion: 2
-        x: 1098
-        y: 1030
-        width: 386
-        height: 496
+        x: 0
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,12 +247,12 @@ TextureImporter:
       name: RunningRightSquid_4
       rect:
         serializedVersion: 2
-        x: 80
-        y: 525
-        width: 379
-        height: 468
+        x: 512
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: RunningRightSquid_5
       rect:
         serializedVersion: 2
-        x: 555
-        y: 891
-        width: 29
-        height: 15
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -291,12 +291,12 @@ TextureImporter:
       name: RunningRightSquid_6
       rect:
         serializedVersion: 2
-        x: 586
-        y: 540
-        width: 381
-        height: 450
+        x: 0
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -313,12 +313,12 @@ TextureImporter:
       name: RunningRightSquid_7
       rect:
         serializedVersion: 2
-        x: 1104
-        y: 541
-        width: 380
-        height: 458
+        x: 512
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -331,77 +331,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: RunningRightSquid_8
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 403
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3d086fe80fddc420800000000000000
-      internalID: 2652020985060396349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunningRightSquid_9
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 20
-        width: 380
-        height: 489
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90185f7badf3bfdb0800000000000000
-      internalID: -4757138372765056759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunningRightSquid_10
-      rect:
-        serializedVersion: 2
-        x: 588
-        y: 20
-        width: 383
-        height: 465
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f66bd42435ff31ca0800000000000000
-      internalID: -6047209141568686481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f46d38bf70e298848845142e06760b31
     internalID: 0
     vertices: []
     indices: 
@@ -409,19 +343,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       RunningRightSquid_0: -4865977774526448607
       RunningRightSquid_1: -443889924710633522
-      RunningRightSquid_10: -6047209141568686481
       RunningRightSquid_2: 5872239262949874013
       RunningRightSquid_3: -103150163862242181
       RunningRightSquid_4: 8211379330707767551
       RunningRightSquid_5: 9212732722900855721
       RunningRightSquid_6: -2262689680216674320
       RunningRightSquid_7: -2852176664174004263
-      RunningRightSquid_8: 2652020985060396349
-      RunningRightSquid_9: -4757138372765056759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
